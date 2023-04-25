@@ -1,0 +1,236 @@
+Package: com.atwiiks.betterccxi
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
+Size: 80396
+MD5sum: 64ce65f67ea8089dbb00c32e538ea307
+SHA1: 62d3d96bfee244b9e7295db2eea61e97bff57338
+SHA256: 4da99d712fd2f54523a302acc82ec68df05c7bc8bb4f004d2c421eb3e473fd0d
+Section: Tweaks
+Description: Enhance your control center on iOS 11 and iOS 12
+Author: ATWiiks
+Name: BetterCCXI (rootless)
+
+Package: com.brend0n.properccbackgroundipad
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.brend0n.properccbackgroundipad_0.0.2_iphoneos-arm64.deb
+Size: 6832
+MD5sum: 9d57f496a219f1fc168451b8d1fa2867
+SHA1: eb2a617b61e82ea1bdf3daab7dc70d45b1f48f67
+SHA256: 9cf64d604e97a423a760373e4d2691eaa5c389cadc1c033aade5f31ad736a8a9
+Section: Tweaks
+Description: Make Control Center not to blur the whole screen.
+Author: Brend0n <brendonjkding@126.com>
+Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.properccbackgroundipad
+Name: ProperCCBackground(iPad) (rootless)
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.properccbackgroundipad/depiction.json
+
+Package: com.ichitaso.transparentdock13
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 136
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm64.deb
+Size: 3420
+MD5sum: e3f43eb1516a35c6ff4f2249b757e416
+SHA1: 5337df4329b46b821fa4b7e162353d7e5016816a
+SHA256: fc28cad2497b410cf6652f3f113060723466e4e6f078402258867b8691312e7b
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Transparent Dock for iOS 13
+Tag: purpose::extension, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/transparentdock13.html
+Dev: ichitaso
+Name: TransparentDock13 (rootless)
+
+Package: com.twickd.luki120.aestea-revived
+Version: 3.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.twickd.luki120.aestea-revived_3.deb
+Size: 694480
+MD5sum: 87eeeef2f4925a110d97e3c725102a7f
+SHA1: 48ca21c42dba974ec323e2ecc031568aac7f8cc0
+SHA256: a87181240119c61b6bdaf97672c950cbb5a7a7f0d6c15105287d22655224bbec
+Section: Tweaks
+Description: Colorize your connectivity toggles on the fly
+Author: Luki
+Name: Aestea Revived 🌊 (rootless)
+
+Package: com.twickd.luki120.april
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.twickd.luki120.april_2.deb
+Size: 393492
+MD5sum: 082e1ad887ce05ddc6edb2ffb7611f06
+SHA1: 64382525463244620bb2b4868b13b09fea672257
+SHA256: 1a103dac54d59c8998817db4354d0c4e6f3e986c235a9d30d0fe425d4a36647e
+Section: Tweaks
+Description: Augment your settings app aesthetics to the next level on the fly
+Author: Luki
+Name: April (rootless)
+
+Package: me.luki.amelija
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.amelija_1.1_iphoneos-arm64.deb
+Size: 386216
+MD5sum: d07ccaebcf1124a16b3515e5229802b4
+SHA1: c906fe36a605130ea40deb70dda0506a14ce7359
+SHA256: cfda5123681881e929da1eab81d7e2795d17d868f8f774cba3b98462855b49d3
+Section: Tweaks
+Description: Take full control of your wallpapers on the fly
+Author: Luki
+Name: Amelija (rootless)
+
+Package: me.luki.aria
+Version: 0.9.8~RC
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.aria_0.9.8~RC_iphoneos-arm64.deb
+Size: 95172
+MD5sum: 1ede0d28f9a8d6d6df8703296b6edcd9
+SHA1: d66071ee93f0d915e2e1efd45104164c6de7c5d7
+SHA256: f319ccf63133ca2fc4f0a2f83256c1d23db0dd7823f596112e82134befefaec8
+Section: Tweaks
+Description: Enhance the stock CC or Prysm on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
+Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
+Name: Aria (rootless)
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
+
+Package: me.luki.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.arizona_0.9.2_iphoneos-arm64.deb
+Size: 428584
+MD5sum: c06d08336bb0e9867e9d594084a27cd4
+SHA1: d48a50600cc52b8fa20b0c529804650480bfb023
+SHA256: dd4152253f1d4a74115af69d0d790baf03ff693e03599fb64da9714efecc3f02
+Section: Tweaks
+Description: Move the stock clock, date and lock glyph on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
+Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
+Name: Arizona (rootless)
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
+
+Package: me.luki.stealthccrootless
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.stealthccrootless_0.9.0_iphoneos-arm64.deb
+Size: 9092
+MD5sum: f807dcf76c0064d735fc8a82b576cf54
+SHA1: 69fa4bc7be8466dc99fbdd687ef6dac5ffdfca99
+SHA256: eae6a0d94000d1540a8bacbfd8e6ad43fa433ece16759e90c7f477a6f7bf793c
+Section: Tweaks
+Description: Control the intensity of the stock CC blur on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+Name: StealthCC (rootless)
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
+Package: org.mr.genesis3-rootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MainRepo
+Installed-Size: 3740
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), com.itznebbs.phoenix (>= 1.0.2)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/org.mr.genesis3-rootless_1.4_iphoneos-arm64.deb
+Size: 1254596
+MD5sum: ccf3225ff27c081470b6d48c70b86476
+SHA1: 4e67ec9c7b437edda692eabcd09c7233eaac9546
+SHA256: 27e125334a16e536392fbc8d0edcb732fcb43cb9c8909ab5ccc0ee5b6043af12
+Section: Tweaks
+Description: The culmination of something beautiful!
+Author: ItzNebbs
+Depiction: https://mrepo.org/depiction/5466
+Icon: https://media.havoc.app/63d8b104428cf82d01941360?w=1920&q=75
+Name: Genesis 3 (rootless)
+Sileodepiction: https://mrepo.org/sileo/5466
+
+Package: red.special.fastanimrootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 288
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/red.special.fastanimrootless_1.0_iphoneos-arm64.deb
+Size: 14216
+MD5sum: c661bea30d2b2e69fdfa49a3142409f7
+SHA1: fac27d9f7d81f1e7cb089442f85681c2c0cf49e7
+SHA256: a89040f107abd2d033d1c280daf3362c02f9ea3d23904e3baff6296d35137546
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastanimDp
+Description: Speed up SpringBoard Animations!
+Tag: purpose::extension
+Author: TheRedSpecial <theredspecial0@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastanimDp
+Dev: ljinc
+Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
+Name: FastAnim (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: xyz.cypwn.jellyfish
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora | xyz.cypwn.aurora, ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
+Size: 69260
+MD5sum: ac83dd2898eff7ef3c33217a00ee48eb
+SHA1: a5dafdddb34a2987588bbdd42482d7849eda817d
+SHA256: 079327fe89bac9e89031b90567310b08a5b4a6ed3e5e66e640fbe54fe3edfdd5
+Section: Tweaks
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Author: Justin Proulx and Ayden Panhuyzen <justinproulxapps@outlook.com>
+Depiction: https://repo.cypwn.xyz/depiction/139
+Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
+Name: Jellyfish
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/139
+
+Package: xyz.skitty.ersatz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.skitty.ersatz_1.0_iphoneos-arm64.deb
+Size: 44440
+MD5sum: b68d11117cd5e8155f635e677a7988f0
+SHA1: bd7af006d63688ce86a7c1b7c59899835b4c0992
+SHA256: 3f8b421765c0562783d91d3b48ea603f575449ec10bc6f878bde404d2e980a06
+Section: Tweaks
+Description: Replace any text, system-wide!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.ersatz
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Name: Ersatz (rootless)
+Sileodepiction: https://skitty.xyz/repo/depictions/?s=xyz.skitty.ersatz
+
