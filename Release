@@ -1,0 +1,8 @@
+Origin: NoW4U2Kid
+Label: NoW4U2Kid's repo
+Suite: stable
+Version: 1.0
+Codename: now4u2kidrepo
+Architectures: iphoneos-arm64
+Components: main
+Description: NoW4U2Kid's Cydia Repository
