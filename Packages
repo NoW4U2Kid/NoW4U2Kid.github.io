@@ -1,3 +1,20 @@
+Package: applebetas.ios.tweak.willow
+Version: 1.2.14
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/applebetas.ios.tweak.willow_1.2.14_iphoneos-arm64.deb
+Size: 244824
+MD5sum: e60899e3edc4f0f874018c1d42274469
+SHA1: f3be31468163ec1a7d976fbfaf105dfaf60f30bd
+SHA256: f82d5e88b408589082a0cede2fe7b33d1143ee7b3da694068ec67e18a47d71a0
+Section: Tweaks
+Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
+Author: Ayden Panhuyzen
+Name: Ultrasound
+
 Package: com.atwiiks.betterccxi
 Version: 1.6.0
 Architecture: iphoneos-arm64
@@ -32,6 +49,47 @@ Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.properc
 Name: ProperCCBackground(iPad) (rootless)
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.properccbackgroundipad/depiction.json
 
+Package: com.hackyouriphone.aerial2
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.hackyouriphone.aerial2_1.0.3_iphoneos-arm64.deb
+Size: 82032
+MD5sum: bf4859d6d19a0dc67678875d5bcd2c29
+SHA1: 4a32225e1f3334877a1595902d1480163dbbda77
+SHA256: 4b8006f49d8d5256a5250a91a15a47faf12821d539f36117938fede9c60e471e
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aerial2
+Description: Colour Status Bar Icons
+Author: PolyTweaks <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aerial2
+Name: Aerial 2
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=aerial2
+
+Package: com.ichitaso.primalfolder2
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 400
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.ichitaso.primalfolder2_0.1.0_iphoneos-arm64.deb
+Size: 50896
+MD5sum: 020183c11ee69c43d5afe8da1936eb6b
+SHA1: 87347a6919854eeb2220070aec446266337a6886
+SHA256: 339d876d5150f4b78c35e070b2a6ab7eeb78cceef5a9b381f7f7e13e5a0f7b59
+Section: Tweaks
+Homepage: https://ichitaso.com
+Description: Display to folder as icon and launch action for Folders
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+Name: PrimalFolder 2
+
 Package: com.ichitaso.transparentdock13
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -52,6 +110,62 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/transparentdock13.html
 Dev: ichitaso
 Name: TransparentDock13 (rootless)
+
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 143
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
+Size: 5172
+MD5sum: 2d945dfe7355c4476aca52acb9899cab
+SHA1: cb6ae6d1d80ad7ec508aac3b1ecf99867b18a852
+SHA256: fadeee32bbc5103d400b147805a4d30d12f815862f8cd2a3da78b6176127b3b6
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Description: Add bouncing effect animations on iOS 11/12
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Jake James <jakeashacks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Dev: jakeashacks
+Name: Bounce It!
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.nrkvv.blankicons
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: m156nrkvv
+Installed-Size: 824
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.nrkvv.blankicons_0.1.1_iphoneos-arm64.deb
+Size: 38080
+MD5sum: cac89a8607a08df0a4e94867bd3b4583
+SHA1: dae33ee04d5f3983b5602ecb84f2d9e1b983e21d
+SHA256: 4a93cc8afacb08da8134cde8ee289b4fe714b969d41050d250d5ab0e8dbfa48a
+Section: Utilities
+Homepage: http://twitter.com/m156nrkvv
+Description: Create Blank Icons !!
+Tag: compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: m156nrkvv
+Icon: file:///Library/PreferenceBundles/BlankIconsPrefs.bundle/BlankIcons@2x.png
+Name: BlankIcons
+
+Package: com.pixelomer.mobilegoose
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: pixelomer
+Installed-Size: 1096
+Depends: mobilesubstrate, preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
+Size: 630480
+MD5sum: ae70b629d32b53f5c64d7e1bf09f9139
+SHA1: f1c85c433295fa336f722391539ed77ba531c24c
+SHA256: f486c2290c87d2f82fe0f6a9e60b8dc0ac824257a484307bf8d54e0389e80432
+Section: Tweaks
+Description: An annoying goose for your iDevice
+Author: pixelomer
+Name: MobileGoose
 
 Package: com.twickd.luki120.aestea-revived
 Version: 3.2
@@ -82,6 +196,23 @@ Section: Tweaks
 Description: Augment your settings app aesthetics to the next level on the fly
 Author: Luki
 Name: April (rootless)
+
+Package: dev.ayden.ios.tweak.lib.libdundas
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 332
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/dev.ayden.ios.tweak.lib.libdundas_1.0.3_iphoneos-arm64.deb
+Size: 38460
+MD5sum: b6b71c63c30768e2c5bce4dcf0b44013
+SHA1: 42033fd781cc31bca30ef264d2f31d0ad93c15af
+SHA256: c919ff6af5cb85406e77f8f72a347c1200384fa8b55ef86fc15515bdf135653e
+Section: Development
+Description: Utilities for my tweaks.
+Tag: role::developer
+Author: Ayden Panhuyzen
+Name: libdundas
 
 Package: me.luki.amelija
 Version: 1.1
@@ -194,6 +325,25 @@ Dev: ljinc
 Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
 Name: FastAnim (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: xyz.cypwn.complications
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3022
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.complications_4.0_iphoneos-arm64.deb
+Size: 633632
+MD5sum: f87b641c8e50f2242540775d16974a48
+SHA1: a929483a4714a439737f3342b415db0f36d43c1b
+SHA256: 557043662421713e731aaaf23d07cb82a9d1c53ae95142cc86a968431cb9e30a
+Section: Tweaks
+Description: watchOS widgets on your lock screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/566
+Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
+Name: Complications
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/566
 
 Package: xyz.cypwn.jellyfish
 Version: 1.6.5
