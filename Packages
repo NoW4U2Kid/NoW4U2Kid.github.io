@@ -285,25 +285,6 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 Name: StealthCC (rootless)
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 
-Package: org.mr.genesis3-rootless
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: MainRepo
-Installed-Size: 3740
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), com.itznebbs.phoenix (>= 1.0.2)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/org.mr.genesis3-rootless_1.4_iphoneos-arm64.deb
-Size: 1254596
-MD5sum: ccf3225ff27c081470b6d48c70b86476
-SHA1: 4e67ec9c7b437edda692eabcd09c7233eaac9546
-SHA256: 27e125334a16e536392fbc8d0edcb732fcb43cb9c8909ab5ccc0ee5b6043af12
-Section: Tweaks
-Description: The culmination of something beautiful!
-Author: ItzNebbs
-Depiction: https://mrepo.org/depiction/5466
-Icon: https://media.havoc.app/63d8b104428cf82d01941360?w=1920&q=75
-Name: Genesis 3 (rootless)
-Sileodepiction: https://mrepo.org/sileo/5466
-
 Package: red.special.fastanimrootless
 Version: 1.0
 Architecture: iphoneos-arm64
