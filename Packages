@@ -186,6 +186,22 @@ Description: An annoying goose for your iDevice
 Author: pixelomer
 Name: MobileGoose
 
+Package: com.smokin1337.fugap
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 712
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.smokin1337.fugap_2.2.5_iphoneos-arm64.deb
+Size: 143108
+MD5sum: cfc19b7f55b966b7758e080dc670c82f
+SHA1: 4275310db659c8034c11c1dd21a3bbc0f38318b3
+SHA256: 70bf777d1fd7a549df77532e6339e36cb0b39149d910387e447b740ae06133b0
+Section: Tweaks
+Description: Close some gaps, hide some stuff !
+Author: smokin1337 <smokin1337@gmail.com>
+Name: FUGap (rootless)
+
 Package: com.twickd.luki120.aestea-revived
 Version: 3.2
 Architecture: iphoneos-arm64
