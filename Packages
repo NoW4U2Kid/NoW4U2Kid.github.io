@@ -132,6 +132,24 @@ Dev: jakeashacks
 Name: Bounce It!
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.julioverne.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 74788
+MD5sum: 368fa447b7c53724544efc2e2f19d83f
+SHA1: 8e9d7cec8aa0bd9f7deff8dc9fcb143917a59314
+SHA256: 89cb63f1c56cda890a7c8b8f2ae1aad6beda56e84310610d40dc7491fc390ff9
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi (rootless)
+
 Package: com.junesiphone.hidestatusbaritemsx
 Version: 0.3.9
 Architecture: iphoneos-arm64
@@ -185,6 +203,27 @@ Section: Tweaks
 Description: An annoying goose for your iDevice
 Author: pixelomer
 Name: MobileGoose
+
+Package: com.rpetrich.powercuff
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 156
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
+Size: 11328
+MD5sum: 15bcccf814f16c0101a2c4ae09743367
+SHA1: 8dad0f7ec3b510967613da6f42d564a1a7aaca96
+SHA256: 2088cea2f6fb95d06080bc4b1a68c3fbdd5300254751a8ad929cf0fc54c57368
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.smokin1337.fugap
 Version: 2.2.5
