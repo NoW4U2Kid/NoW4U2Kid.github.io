@@ -132,6 +132,25 @@ Dev: jakeashacks
 Name: Bounce It!
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.junesiphone.hidestatusbaritemsx
+Version: 0.3.9
+Architecture: iphoneos-arm64
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 600
+Depends: mobilesubstrate
+Conflicts: com.junesiphone.hidestatusbaritems
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.junesiphone.hidestatusbaritemsx_0.3.9_iphoneos-arm64.deb
+Size: 41524
+MD5sum: 8bee6f9581649842e3a8fe811250a8b0
+SHA1: d457950939d1ac8caf083607288a75cf27d59aa1
+SHA256: d4dcf598cc3e6894107bad61a687e0a020f39a5d5093b7ffe45493a203181d87
+Section: Addons (Tweaks)
+Description: Allows you to hide certain Statusbar items
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/hidestatusbaritemsx
+Name: Hide Statusbar Items X(12) (rootless)
+
 Package: com.nrkvv.blankicons
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -306,6 +325,21 @@ Dev: ljinc
 Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
 Name: FastAnim (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: xyz.cypwn.carrot5rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.carrot5rootless_0.0.1_iphoneos-arm64.deb
+Size: 10174
+MD5sum: 385d1607c2a257a511c700a1aac0b145
+SHA1: fa434cb07bd6856445ec3c9d5147b01d1a27080b
+SHA256: 16700ff35b10f79a060e1336c42e9fbebdf7a857c487b3318b32790967037c92
+Section: Tweaks
+Description: Unlock Carrot 5 Premium Features
+Author: ned
+Name: Carrot5 Premium Rootless
 
 Package: xyz.cypwn.complications
 Version: 4.0
