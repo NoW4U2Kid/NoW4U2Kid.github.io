@@ -204,27 +204,6 @@ Description: An annoying goose for your iDevice
 Author: pixelomer
 Name: MobileGoose
 
-Package: com.rpetrich.powercuff
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 156
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
-Size: 11328
-MD5sum: 15bcccf814f16c0101a2c4ae09743367
-SHA1: 8dad0f7ec3b510967613da6f42d564a1a7aaca96
-SHA256: 2088cea2f6fb95d06080bc4b1a68c3fbdd5300254751a8ad929cf0fc54c57368
-Section: Tweaks
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Depiction: http://rpetri.ch/cydia/powercuff/
-Dev: rpetrich
-Name: Powercuff (rootless)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.smokin1337.fugap
 Version: 2.2.5
 Architecture: iphoneos-arm64
