@@ -15,6 +15,39 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
 
+Package: co.dynastic.ios.lib.flora
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/co.dynastic.ios.lib.flora_1.0.1_iphoneos-arm64.deb
+Size: 91896
+MD5sum: 17db4351946dc845e3559c9ed073bfb6
+SHA1: 96a6af1f7b3a4b4b402b053298906176077ff300
+SHA256: 813e0a7e65776f85da0e4d612721a0a1c261919fdf0631fa7331a0c30e7cd316
+Section: Development
+Description: Common Dynastic utilities.
+Tag: role::developer
+Author: Dynastic
+Name: libflora (rootless)
+
+Package: co.dynastic.ios.tweak.shortlook
+Version: 1.0.23
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 2128
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/co.dynastic.ios.tweak.shortlook_1.0.deb
+Size: 1279704
+MD5sum: e53a475dd7564dd2f4ca0b3796451a98
+SHA1: d51b5fec93a9d64e056576ca1c48b8bd8b4cf337
+SHA256: 534eeca22fec626b83d0511e5b8736c461230f20854da68e2e6e32041112103d
+Section: Tweaks
+Description: ShortLook shows you your notifications at a glance. ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.
+Author: Dynastic
+Name: ShortLook (rootless)
+
 Package: com.atwiiks.betterccxi
 Version: 1.6.0
 Architecture: iphoneos-arm64
@@ -48,6 +81,24 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.properccbackgroundipad
 Name: ProperCCBackground(iPad) (rootless)
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.properccbackgroundipad/depiction.json
+
+Package: com.ginsu.ipcarrier
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: ginsu
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.ginsu.ipcarrier_1.3_iphoneos-arm64.deb
+Size: 29292
+MD5sum: a06e16318bf9d47d373eed931e331543
+SHA1: f09af73459f1f8d9d090883f173b9799a9a368ba
+SHA256: 069c63e611df542fbd616b412b4f8b9f4c711e39f7640cb84ff0b4080a2bb67d
+Section: Tweaks
+Description: IP address in status bar + cc module.
+Author: ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.ipcarrier
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ipcarrier/icon.png
+Name: IPCarrier (rootless)
 
 Package: com.hackyouriphone.aerial2
 Version: 1.0.3
@@ -219,6 +270,23 @@ Section: Tweaks
 Description: Close some gaps, hide some stuff !
 Author: smokin1337 <smokin1337@gmail.com>
 Name: FUGap (rootless)
+
+Package: com.tako3s.printemps
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: tako3s <fubdonstrk@gmail.com>
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 14.2)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.tako3s.printemps_1.1.0_iphoneos-arm64.deb
+Size: 18104
+MD5sum: 055ccde032a9d2c1d34e883f78d1540c
+SHA1: 0f880859665ac5e56be6f9a6dbd01b182990311c
+SHA256: b4b4244678c52fac9e6d7fefd187b4813029799a1831119933706ffe50bb256d
+Section: Tweaks
+Description: Very small music widget
+Author: tako3s <fubdonstrk@gmail.com>
+Name: Printemps (rootless)
 
 Package: com.twickd.luki120.aestea-revived
 Version: 3.2
@@ -393,6 +461,24 @@ Depiction: https://repo.cypwn.xyz/depiction/566
 Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
 Name: Complications
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/566
+
+Package: xyz.cypwn.icleanerprocrack
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
+Size: 4856
+MD5sum: cce030fe87bd4c429c64f3e28aa9959e
+SHA1: c5b49807a214e2317c84b2009d7f23f8370cc516
+SHA256: b4591f90c27d3e4305206436234646520e3fb9ca14fdefb3592e1a0b67af9ead
+Section: Tweaks
+Description: iCleaner Pro Crack
+Author: Anna
+Depiction: https://repo.cypwn.xyz/depiction/895
+Name: iCleaner Pro Crack (rootless)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/895
 
 Package: xyz.cypwn.jellyfish
 Version: 1.6.5
