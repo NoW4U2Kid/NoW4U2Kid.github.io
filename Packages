@@ -183,6 +183,24 @@ Dev: jakeashacks
 Name: Bounce It!
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.julioverne.autowall
+Version: 0.0~beta3
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.julioverne.autowall_0.0~beta3_iphoneos-arm64.deb
+Size: 58484
+MD5sum: 136f2ab9bb659909e90c6baa572239d0
+SHA1: 455516c8f24fc7a56e0d882efa78c3fb6ef24c6a
+SHA256: 7303a95b42269f6f660cdd1e4ad678b0982297e02ce442f5d732b74e410da586
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Scheduled Wallpapers
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autowall
+Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
+Name: AutoWall (rootless)
+
 Package: com.julioverne.goodwifi
 Version: 0.0~beta6
 Architecture: iphoneos-arm64
@@ -255,6 +273,22 @@ Description: An annoying goose for your iDevice
 Author: pixelomer
 Name: MobileGoose
 
+Package: com.rpgfarm.a-font
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/A-Font.com.rpgfarm.a-font.deb
+Size: 499008
+MD5sum: 7f14fbd79baa462d358a65565a1d6aea
+SHA1: c5a6e4eef4930e0ce3391629161a6469eca831e1
+SHA256: b6a1fac037734a435f8ad52b4be899421a1f30618c7872e8b05af30e737e0086
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Font
+
 Package: com.smokin1337.fugap
 Version: 2.2.5
 Architecture: iphoneos-arm64
@@ -270,6 +304,38 @@ Section: Tweaks
 Description: Close some gaps, hide some stuff !
 Author: smokin1337 <smokin1337@gmail.com>
 Name: FUGap (rootless)
+
+Package: com.spark.snowboard.effects
+Version: 1.2.0~Beta1
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 540
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.spark.snowboard.effects_1.2.0~Beta1_iphoneos-arm64.deb
+Size: 64420
+MD5sum: 298cb1a279501682ac24461b1bbbe1c5
+SHA1: c04cf7a367f3849e50834fc2d7d50bf89c456b58
+SHA256: 8e6721852085dd35201feb961d0c82d00aa5b45591fb78c367976d1f9fe01044
+Section: SnowBoard Extensions
+Description: Icon Effects for SnowBoard
+Author: Spark
+Name: SnowBoard Icon Effects Extension (rootless)
+
+Package: com.spark.snowboard.masks
+Version: 1.2.0~Beta1
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 452
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.spark.snowboard.masks_1.2.0~Beta1_iphoneos-arm64.deb
+Size: 35080
+MD5sum: 69f7345850e0c31f819002f948f3e10a
+SHA1: 81d61998893f1a59dc35583d055cf4e110986c66
+SHA256: 7bf84cb3c632d9785e23990429f92386c8a1100b528443be5c5bfa7eda789276
+Section: SnowBoard Extensions
+Description: Icon masks for SnowBoard
+Author: Spark
+Name: SnowBoard Icon Masks Extension (rootless)
 
 Package: com.tako3s.printemps
 Version: 1.1.0
@@ -448,18 +514,18 @@ Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Installed-Size: 3022
-Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.complications_4.0_iphoneos-arm64.deb
-Size: 633632
-MD5sum: f87b641c8e50f2242540775d16974a48
-SHA1: a929483a4714a439737f3342b415db0f36d43c1b
-SHA256: 557043662421713e731aaaf23d07cb82a9d1c53ae95142cc86a968431cb9e30a
+Depends: mobilesubstrate, com.icraze.complicationsfix
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.complicationsrootless.deb
+Size: 641748
+MD5sum: 88fac013202854c4189aa292bb33a3ce
+SHA1: 3fa3fa1873b9e603d475df2404d538f43a8d1813
+SHA256: 19baed14debf8aac51b92a6b94b8324c8de454cdd92c03671b6e4850efcb39d5
 Section: Tweaks
 Description: watchOS widgets on your lock screen
 Author: Ben Giannis
 Depiction: https://repo.cypwn.xyz/depiction/566
 Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
-Name: Complications
+Name: Complications (RootlessFixed)
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/566
 
 Package: xyz.cypwn.icleanerprocrack
@@ -499,6 +565,25 @@ Depiction: https://repo.cypwn.xyz/depiction/139
 Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
 Name: Jellyfish
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/139
+
+Package: xyz.cypwn.velaris
+Version: 1.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3124
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.velaris_1.deb
+Size: 1546708
+MD5sum: 23b5d329f1fca5ced0f41e61339299e2
+SHA1: 0cb0ec05a09faea125aeb731b00fbe23c1bc70d6
+SHA256: aebbb1e0a30b306eaf10f5d18f10cf7d6b55cab74724330c48b5cb67fc67541f
+Section: Tweaks
+Description: Calendar and weather on your home screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/262
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/velaris.png
+Name: Velaris (rootless)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/262
 
 Package: xyz.skitty.ersatz
 Version: 1.0
