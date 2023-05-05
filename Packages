@@ -136,6 +136,24 @@ Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dock1
 Name: Dock13 (rootless)
 Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=dock13
 
+Package: com.hackyouriphone.spdxs
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.hackyouriphone.spdxs_0.2_iphoneos-arm64.deb
+Size: 7072
+MD5sum: 51491daf08d8951ea249f90d6e5b16ff
+SHA1: 565bdd3b05dba9d08fd37dd9d3a5f0d8cacb46a9
+SHA256: 6717bacbb23616eb01cce7da24c8b980a3143fd5513d841d0a4d59066fa6be74
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spdxs
+Description: Hide page dots when not scrolling
+Author: ryst <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spdxs
+Name: Shy Page Dots XS (rootless)
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=spdxs
+
 Package: com.ichitaso.primalfolder2
 Version: 0.1.0
 Architecture: iphoneos-arm64
