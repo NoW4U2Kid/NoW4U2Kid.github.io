@@ -545,6 +545,25 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 Name: StealthCC (rootless)
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/org.thebigboss.libcolorpicker_1.6.9.deb
+Size: 110706
+MD5sum: 1b4be9a4c54048b9df625961c3362c12
+SHA1: 16a7a0d7d72f1be06a41194a3337d3f3ecdd481c
+SHA256: 8f1cb6e0307e275d7fdb23bdeef67893013e674acaecd3819120cde23310572e
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Bailey Seymour
+Name: libcolorpicker
+
 Package: red.special.fastanimrootless
 Version: 1.0
 Architecture: iphoneos-arm64
