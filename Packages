@@ -488,6 +488,22 @@ Description: Fix for weather on Jellyfish for rootless jailbreaks
 Author: NoW4U2Kid
 Name: JellyfishWeatherFix
 
+Package: ez.now.oldabicheck
+Version: 1.1
+Architecture: iphoneos-arm64
+Essential: yes
+Maintainer: NoW4U2Kid
+Depends: oldabi
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.oldabicheck_1.1_iphoneos-arm64.deb
+Size: 39252
+MD5sum: fc7d981529872950f9d7f564cd8e1aa1
+SHA1: b803f668998ecac533680a70c01956f83a48d472
+SHA256: 49fafabc84921a0d538227f743453028ff0c1f7afbc24caa9ae50d1700113ba0
+Section: System
+Description: Required dependency for all packages on this repo
+Author: NoW4U2Kid
+Name: OldABI Check
+
 Package: ez.now.rootlesspatchingsymlinks
 Version: 1.1
 Architecture: iphoneos-arm64
