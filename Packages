@@ -504,6 +504,21 @@ Description: Just makes sure you have OldABI (Legacy arm64e Support) installed, 
 Author: NoW4U2Kid
 Name: OldABI Check
 
+Package: ez.now.rootlesspatchingsymlinks
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.rootlesspatchingsymlinks_1.0_iphoneos-arm64.deb
+Size: 1028
+MD5sum: 4045f16198ca377f250d293b625d4af8
+SHA1: d66f2cd94b866a5302d3508286cd3006547fe455
+SHA256: 6d463ca2317aa6c69aa3d80e3b50a5dc38b564fdf53f6dcca10dc79fd290ba76
+Section: Tweaks
+Description: Adds symlinks necessary for some patched tweaks in rootless jailbreaks
+Author: NoW4U2Kid
+Name: RootlessPatchingSymlinks
+
 Package: me.conorthedev.shylabels13
 Version: 1.4
 Architecture: iphoneos-arm64
