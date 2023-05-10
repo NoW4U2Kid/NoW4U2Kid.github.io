@@ -474,46 +474,30 @@ Author: Ayden Panhuyzen
 Name: libdundas
 
 Package: ez.now.jellyfishweatherfix
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: mobilesubstrate, ellekit, oldabi, dev.ayden.ios.lib.sys.aurora, ldid, sed
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.jellyfishweatherfix_1.1_iphoneos-arm64.deb
-Size: 1044
-MD5sum: 6a1346f37b5a4ba00e7fcb85df9834c6
-SHA1: 6648a24634a3ab8849c635553ff1d1d138990f3c
-SHA256: 5b4b1c8ac462fa5d6626f73ca918bf8dbd1ee7f0c4f275d7e50691f6a3877164
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.jellyfishweatherfix_1.2_iphoneos-arm64.deb
+Size: 1040
+MD5sum: 0c126bdebd96da9614dc7b1cb10621b0
+SHA1: abf53f106ec596fc5a227580cf92b68a97e7d79a
+SHA256: e763f8accf6dc0e681d580c9aafb00f38149f9be7eef225a1cae9572c7a674db
 Section: Tweaks
 Description: Fix for weather on Jellyfish for rootless jailbreaks
 Author: NoW4U2Kid
 Name: JellyfishWeatherFix
 
-Package: ez.now.oldabicheck
-Version: 1.0
-Architecture: iphoneos-arm64
-Essential: yes
-Maintainer: NoW4U2Kid
-Depends: mobilesubstrate, ellekit, oldabi
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.oldabicheck_1.0_iphoneos-arm64.deb
-Size: 880
-MD5sum: 8e08d342a664b36ae36dc513e6d360a7
-SHA1: c6ecde7b69f97cdcfe25a4239a34e897ab3ef6f4
-SHA256: 630c4b177c59ff45a97b0389da4586d33e27817e2bdeeb0f9b66ac7eed4bc9fc
-Section: Tweaks
-Description: Just makes sure you have OldABI (Legacy arm64e Support) installed, because it is required for many tweaks on this repo! If you didn't have it installed, it would safe mode your device, so this keeps you from safe moding!
-Author: NoW4U2Kid
-Name: OldABI Check
-
 Package: ez.now.rootlesspatchingsymlinks
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: mobilesubstrate, ellekit
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.rootlesspatchingsymlinks_1.0_iphoneos-arm64.deb
-Size: 1028
-MD5sum: 4045f16198ca377f250d293b625d4af8
-SHA1: d66f2cd94b866a5302d3508286cd3006547fe455
-SHA256: 6d463ca2317aa6c69aa3d80e3b50a5dc38b564fdf53f6dcca10dc79fd290ba76
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.rootlesspatchingsymlinks_1.1_iphoneos-arm64.deb
+Size: 1032
+MD5sum: 3d539a12d22d637fc2178f0bf10f2633
+SHA1: 368c4f5d570f11f1a77c67b9fdae6c9ade6600d7
+SHA256: 93c72615647f76ad46d7811442a16fa5a1250a9e206941869053a48a0772d2b5
 Section: Tweaks
 Description: Adds symlinks necessary for some patched tweaks in rootless jailbreaks
 Author: NoW4U2Kid
