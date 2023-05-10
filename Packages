@@ -649,24 +649,6 @@ Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
 Name: FastAnim (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: xyz.cypwn.batterynotch
-Version: 1.8.2k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, ez.now.rootlesspatchingsymlinks
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.batterynotch_1.8.2k.deb
-Size: 95836
-MD5sum: e3e6c374c5899cd17c10e478dbe5f8c6
-SHA1: a6399ca0dfea4e51e7f66ba0746d2447e5b09747
-SHA256: 6e427cf349064da3ee86d7ef705e53ebdf54b6b702909f95c906d23479fee807
-Section: Tweaks
-Description: Represent battery around the notch
-Author: gilshahar7
-Depiction: https://repo.cypwn.xyz/depiction/898
-Icon: https://media.havoc.app/620c66367669e842d27d36a3
-Name: BatteryNotch
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
-
 Package: xyz.cypwn.bird-poop
 Version: 1.1.0
 Architecture: iphoneos-arm64
