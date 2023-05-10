@@ -142,10 +142,10 @@ Architecture: iphoneos-arm64
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate
 Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.hackyouriphone.spdxs_0.2_iphoneos-arm64.deb
-Size: 7072
-MD5sum: 51491daf08d8951ea249f90d6e5b16ff
-SHA1: 565bdd3b05dba9d08fd37dd9d3a5f0d8cacb46a9
-SHA256: 6717bacbb23616eb01cce7da24c8b980a3143fd5513d841d0a4d59066fa6be74
+Size: 11726
+MD5sum: 94a74b873c06db27ee22a86fe0074c42
+SHA1: e8d84aef64ce5099b4f4ec77e1c744148a1bc46c
+SHA256: dcd6e37ff100cc1a0d071e15b49841dc3178dca5b36baa5a3744fc8822a21426
 Section: HYI - Tweaks
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spdxs
 Description: Hide page dots when not scrolling
@@ -473,6 +473,37 @@ Tag: role::developer
 Author: Ayden Panhuyzen
 Name: libdundas
 
+Package: ez.now.jellyfishweatherfix
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, oldabi, dev.ayden.ios.lib.sys.aurora, ldid, sed
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.jellyfishweatherfix_1.1_iphoneos-arm64.deb
+Size: 1044
+MD5sum: 6a1346f37b5a4ba00e7fcb85df9834c6
+SHA1: 6648a24634a3ab8849c635553ff1d1d138990f3c
+SHA256: 5b4b1c8ac462fa5d6626f73ca918bf8dbd1ee7f0c4f275d7e50691f6a3877164
+Section: Tweaks
+Description: Fix for weather on Jellyfish for rootless jailbreaks
+Author: NoW4U2Kid
+Name: JellyfishWeatherFix
+
+Package: ez.now.oldabicheck
+Version: 1.0
+Architecture: iphoneos-arm64
+Essential: yes
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, oldabi
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.oldabicheck_1.0_iphoneos-arm64.deb
+Size: 880
+MD5sum: 8e08d342a664b36ae36dc513e6d360a7
+SHA1: c6ecde7b69f97cdcfe25a4239a34e897ab3ef6f4
+SHA256: 630c4b177c59ff45a97b0389da4586d33e27817e2bdeeb0f9b66ac7eed4bc9fc
+Section: Tweaks
+Description: Just makes sure you have OldABI (Legacy arm64e Support) installed, because it is required for many tweaks on this repo! If you didn't have it installed, it would safe mode your device, so this keeps you from safe moding!
+Author: NoW4U2Kid
+Name: OldABI Check
+
 Package: me.conorthedev.shylabels13
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -570,11 +601,11 @@ Installed-Size: 392
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/org.thebigboss.libcolorpicker_1.6.9.deb
-Size: 110706
-MD5sum: 1b4be9a4c54048b9df625961c3362c12
-SHA1: 16a7a0d7d72f1be06a41194a3337d3f3ecdd481c
-SHA256: 8f1cb6e0307e275d7fdb23bdeef67893013e674acaecd3819120cde23310572e
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 65310
+MD5sum: edc543419c4fd17e1b7af5e082fe6d7e
+SHA1: d67d773a98dca7af48fa79ac19d8f6e33e6381a3
+SHA256: a1258bfdacd61c41e3b515d16a03c98a265647753639e31691574522af15b056
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
@@ -603,6 +634,24 @@ Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
 Name: FastAnim (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: xyz.cypwn.batterynotch
+Version: 1.8.2k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, ez.now.rootlesspatchingsymlinks
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.batterynotch_1.8.2k.deb
+Size: 95836
+MD5sum: e3e6c374c5899cd17c10e478dbe5f8c6
+SHA1: a6399ca0dfea4e51e7f66ba0746d2447e5b09747
+SHA256: 6e427cf349064da3ee86d7ef705e53ebdf54b6b702909f95c906d23479fee807
+Section: Tweaks
+Description: Represent battery around the notch
+Author: gilshahar7
+Depiction: https://repo.cypwn.xyz/depiction/898
+Icon: https://media.havoc.app/620c66367669e842d27d36a3
+Name: BatteryNotch
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
+
 Package: xyz.cypwn.bird-poop
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -620,21 +669,6 @@ Depiction: https://repo.cypwn.xyz/depiction/38
 Icon: https://twickd.com/images/9af76f887270ad5b04d750000e58b73b.jpeg?size=medium
 Name: Bird Poop (rootless)
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/38
-
-Package: xyz.cypwn.carrot5rootless
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.carrot5rootless_0.0.1_iphoneos-arm64.deb
-Size: 10174
-MD5sum: 385d1607c2a257a511c700a1aac0b145
-SHA1: fa434cb07bd6856445ec3c9d5147b01d1a27080b
-SHA256: 16700ff35b10f79a060e1336c42e9fbebdf7a857c487b3318b32790967037c92
-Section: Tweaks
-Description: Unlock Carrot 5 Premium Features
-Author: ned
-Name: Carrot5 Premium Rootless
 
 Package: xyz.cypwn.complications
 Version: 4.0
@@ -654,24 +688,6 @@ Depiction: https://repo.cypwn.xyz/depiction/566
 Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
 Name: Complications (RootlessFixed)
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/566
-
-Package: xyz.cypwn.icleanerprocrack
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
-Size: 4856
-MD5sum: cce030fe87bd4c429c64f3e28aa9959e
-SHA1: c5b49807a214e2317c84b2009d7f23f8370cc516
-SHA256: b4591f90c27d3e4305206436234646520e3fb9ca14fdefb3592e1a0b67af9ead
-Section: Tweaks
-Description: iCleaner Pro Crack
-Author: Anna
-Depiction: https://repo.cypwn.xyz/depiction/895
-Name: iCleaner Pro Crack (rootless)
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/895
 
 Package: xyz.cypwn.jellyfish
 Version: 1.6.5
