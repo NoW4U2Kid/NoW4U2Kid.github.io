@@ -504,21 +504,21 @@ Author: NoW4U2Kid
 Name: RootlessPatchingSymlinks
 
 Package: ez.now.xinaminepatcherscript
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: file, odcctools, ldid
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.xinaminepatcherscript_1.1_iphoneos-arm64.deb
-Size: 3476
-MD5sum: 6773dd5ebebf637a4a0de54ebe3046b9
-SHA1: d18a569b80563f473cbaac4ebc5447d26bfa7b53
-SHA256: af29afc35e4ab9d3e0fa77568abba7d94c26666be81fabbe17895129ecff4974
+Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.xinaminepatcherscript_1.2_iphoneos-arm64.deb
+Size: 3820
+MD5sum: ed2f8b4fdc462dd559a01230353f2ddc
+SHA1: d0646240e8f3686c878efc57b730dd6e00371bcc
+SHA256: 6079e8895bb8f16ecd8fd35f69cabc356fae293863e2a2fdeb3f84788a61b5fd
 Section: System
 Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
  - YES, this is much better than Derootifier or any other rootless conversion script.
  - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
  - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
- - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process)
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there
 Author: NoW4U2Kid
 Name: Xinamine Rootless Patcher Script
 
