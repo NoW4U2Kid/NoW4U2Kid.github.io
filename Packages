@@ -439,23 +439,6 @@ Description: Augment your settings app aesthetics to the next level on the fly
 Author: Luki
 Name: April (rootless)
 
-Package: dev.ayden.ios.lib.sys.aurora
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Ayden Panhuyzen
-Installed-Size: 144
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64.deb
-Size: 12644
-MD5sum: ec74b889a7abbe306513c9dd8c8b8382
-SHA1: ff97683b4f22cc2fdb932f2147563ac5eff68e22
-SHA256: 3e9aee9cb8cdab0ad29e73a066b03ee20a2ad6d232ba7350ea5b3157fc5f157e
-Section: Development
-Description: Specialized out-of-process weather utility library.
-Tag: role::developer
-Author: Ayden Panhuyzen
-Name: libaurora
-
 Package: dev.ayden.ios.tweak.lib.libdundas
 Version: 1.0.3
 Architecture: iphoneos-arm64
