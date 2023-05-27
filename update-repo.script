@@ -1,0 +1,9 @@
+#!/var/jb/usr/bin/sh
+cd /var/mobile/Documents/MyRepo/NoW4U2Kid.github.io
+dpkg-scanpackages -m debs /dev/null > /var/mobile/Documents/MyRepo/NoW4U2Kid.github.io/Packages
+dpkg-scanpackages -m debs /dev/null | gzip -9c > /var/mobile/Documents/MyRepo/NoW4U2Kid.github.io/Packages.gz
+dpkg-scanpackages -m debs /dev/null | bzip2 -9c > /var/mobile/Documents/MyRepo/NoW4U2Kid.github.io/Packages.bz2
+
+git add -A
+git commit -m "Repo stuff"
+git push -u origin master

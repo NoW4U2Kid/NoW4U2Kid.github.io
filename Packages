@@ -5,7 +5,7 @@ Maintainer: Ayden Panhuyzen
 Installed-Size: 984
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas
 Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/applebetas.ios.tweak.willow_1.2.14_iphoneos-arm64.deb
+Filename: debs/applebetas.ios.tweak.willow_1.2.14_iphoneos-arm64.deb
 Size: 244824
 MD5sum: e60899e3edc4f0f874018c1d42274469
 SHA1: f3be31468163ec1a7d976fbfaf105dfaf60f30bd
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ayden Panhuyzen
 Installed-Size: 492
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/co.dynastic.ios.lib.flora_1.0.1_iphoneos-arm64.deb
+Filename: debs/co.dynastic.ios.lib.flora_1.0.1_iphoneos-arm64.deb
 Size: 91896
 MD5sum: 17db4351946dc845e3559c9ed073bfb6
 SHA1: 96a6af1f7b3a4b4b402b053298906176077ff300
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ayden Panhuyzen
 Installed-Size: 2128
 Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/co.dynastic.ios.tweak.shortlook_1.0.deb
+Filename: debs/co.dynastic.ios.tweak.shortlook_1.0.deb
 Size: 1279704
 MD5sum: e53a475dd7564dd2f4ca0b3796451a98
 SHA1: d51b5fec93a9d64e056576ca1c48b8bd8b4cf337
@@ -54,7 +54,7 @@ Architecture: iphoneos-arm64
 Maintainer: ATWiiks
 Installed-Size: 640
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
+Filename: debs/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
 Size: 80396
 MD5sum: 64ce65f67ea8089dbb00c32e538ea307
 SHA1: 62d3d96bfee244b9e7295db2eea61e97bff57338
@@ -70,7 +70,7 @@ Architecture: iphoneos-arm64
 Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.brend0n.properccbackgroundipad_0.0.2_iphoneos-arm64.deb
+Filename: debs/com.brend0n.properccbackgroundipad_0.0.2_iphoneos-arm64.deb
 Size: 6832
 MD5sum: 9d57f496a219f1fc168451b8d1fa2867
 SHA1: eb2a617b61e82ea1bdf3daab7dc70d45b1f48f67
@@ -88,7 +88,7 @@ Architecture: iphoneos-arm64
 Maintainer: ginsu
 Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.ginsu.ipcarrier_1.3_iphoneos-arm64.deb
+Filename: debs/com.ginsu.ipcarrier_1.3_iphoneos-arm64.deb
 Size: 29292
 MD5sum: a06e16318bf9d47d373eed931e331543
 SHA1: f09af73459f1f8d9d090883f173b9799a9a368ba
@@ -105,7 +105,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.hackyouriphone.aerial2_1.0.3_iphoneos-arm64.deb
+Filename: debs/com.hackyouriphone.aerial2_1.0.3_iphoneos-arm64.deb
 Size: 82032
 MD5sum: bf4859d6d19a0dc67678875d5bcd2c29
 SHA1: 4a32225e1f3334877a1595902d1480163dbbda77
@@ -123,7 +123,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.hackyouriphone.dock13_0.0.1_iphoneos-arm64.deb
+Filename: debs/com.hackyouriphone.dock13_0.0.1_iphoneos-arm64.deb
 Size: 3880
 MD5sum: 1b8d806b24a20e5784a264f0723d0d03
 SHA1: d7154a45aea535a17c90a2d58f2718dcce628ca7
@@ -141,11 +141,11 @@ Version: 0.2
 Architecture: iphoneos-arm64
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.hackyouriphone.spdxs_0.2_iphoneos-arm64.deb
-Size: 11726
-MD5sum: 94a74b873c06db27ee22a86fe0074c42
-SHA1: e8d84aef64ce5099b4f4ec77e1c744148a1bc46c
-SHA256: dcd6e37ff100cc1a0d071e15b49841dc3178dca5b36baa5a3744fc8822a21426
+Filename: debs/com.hackyouriphone.spdxs_0.2_iphoneos-arm64.deb
+Size: 7072
+MD5sum: 51491daf08d8951ea249f90d6e5b16ff
+SHA1: 565bdd3b05dba9d08fd37dd9d3a5f0d8cacb46a9
+SHA256: 6717bacbb23616eb01cce7da24c8b980a3143fd5513d841d0a4d59066fa6be74
 Section: HYI - Tweaks
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spdxs
 Description: Hide page dots when not scrolling
@@ -162,7 +162,7 @@ Installed-Size: 400
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.ichitaso.primalfolder2_0.1.0_iphoneos-arm64.deb
+Filename: debs/com.ichitaso.primalfolder2_0.1.0_iphoneos-arm64.deb
 Size: 50896
 MD5sum: 020183c11ee69c43d5afe8da1936eb6b
 SHA1: 87347a6919854eeb2220070aec446266337a6886
@@ -184,7 +184,7 @@ Maintainer: ichitaso
 Installed-Size: 136
 Pre-Depends: firmware (>= 13.0)
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm64.deb
+Filename: debs/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm64.deb
 Size: 3420
 MD5sum: e3f43eb1516a35c6ff4f2249b757e416
 SHA1: 5337df4329b46b821fa4b7e162353d7e5016816a
@@ -204,7 +204,7 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 143
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
+Filename: debs/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
 Size: 5172
 MD5sum: 2d945dfe7355c4476aca52acb9899cab
 SHA1: cb6ae6d1d80ad7ec508aac3b1ecf99867b18a852
@@ -224,7 +224,7 @@ Version: 0.0~beta3
 Architecture: iphoneos-arm64
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.julioverne.autowall_0.0~beta3_iphoneos-arm64.deb
+Filename: debs/com.julioverne.autowall_0.0~beta3_iphoneos-arm64.deb
 Size: 58484
 MD5sum: 136f2ab9bb659909e90c6baa572239d0
 SHA1: 455516c8f24fc7a56e0d882efa78c3fb6ef24c6a
@@ -242,7 +242,7 @@ Version: 0.0~beta6
 Architecture: iphoneos-arm64
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Filename: debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
 Size: 74788
 MD5sum: 368fa447b7c53724544efc2e2f19d83f
 SHA1: 8e9d7cec8aa0bd9f7deff8dc9fcb143917a59314
@@ -262,7 +262,7 @@ Maintainer: June <junesgraphics@gmail.com>
 Installed-Size: 600
 Depends: mobilesubstrate
 Conflicts: com.junesiphone.hidestatusbaritems
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.junesiphone.hidestatusbaritemsx_0.3.9_iphoneos-arm64.deb
+Filename: debs/com.junesiphone.hidestatusbaritemsx_0.3.9_iphoneos-arm64.deb
 Size: 41524
 MD5sum: 8bee6f9581649842e3a8fe811250a8b0
 SHA1: d457950939d1ac8caf083607288a75cf27d59aa1
@@ -280,7 +280,7 @@ Architecture: iphoneos-arm64
 Maintainer: m156nrkvv
 Installed-Size: 824
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.nrkvv.blankicons_0.1.1_iphoneos-arm64.deb
+Filename: debs/com.nrkvv.blankicons_0.1.1_iphoneos-arm64.deb
 Size: 38080
 MD5sum: cac89a8607a08df0a4e94867bd3b4583
 SHA1: dae33ee04d5f3983b5602ecb84f2d9e1b983e21d
@@ -299,7 +299,7 @@ Architecture: iphoneos-arm64
 Maintainer: pixelomer
 Installed-Size: 1096
 Depends: mobilesubstrate, preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
+Filename: debs/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
 Size: 630480
 MD5sum: ae70b629d32b53f5c64d7e1bf09f9139
 SHA1: f1c85c433295fa336f722391539ed77ba531c24c
@@ -309,13 +309,34 @@ Description: An annoying goose for your iDevice
 Author: pixelomer
 Name: MobileGoose
 
+Package: com.rpetrich.powercuff
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 156
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: debs/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
+Size: 11328
+MD5sum: 15bcccf814f16c0101a2c4ae09743367
+SHA1: 8dad0f7ec3b510967613da6f42d564a1a7aaca96
+SHA256: 2088cea2f6fb95d06080bc4b1a68c3fbdd5300254751a8ad929cf0fc54c57368
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.rpgfarm.a-font
 Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2476
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/A-Font.com.rpgfarm.a-font.deb
+Filename: debs/A-Font.com.rpgfarm.a-font.deb
 Size: 499008
 MD5sum: 7f14fbd79baa462d358a65565a1d6aea
 SHA1: c5a6e4eef4930e0ce3391629161a6469eca831e1
@@ -331,7 +352,7 @@ Architecture: iphoneos-arm64
 Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 712
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.smokin1337.fugap_2.2.5_iphoneos-arm64.deb
+Filename: debs/com.smokin1337.fugap_2.2.5_iphoneos-arm64.deb
 Size: 143108
 MD5sum: cfc19b7f55b966b7758e080dc670c82f
 SHA1: 4275310db659c8034c11c1dd21a3bbc0f38318b3
@@ -347,7 +368,7 @@ Architecture: iphoneos-arm64
 Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 1172
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.smokin1337.togglow_1.0.deb
+Filename: debs/com.smokin1337.togglow_1.0.deb
 Size: 342568
 MD5sum: 6c0576392d6da17fd1ed042f07cccc5c
 SHA1: a0d8d2f6e0ab9478cb93545eff030186aed49c68
@@ -366,7 +387,7 @@ Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 540
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.spark.snowboard.effects_1.2.0~Beta1_iphoneos-arm64.deb
+Filename: debs/com.spark.snowboard.effects_1.2.0~Beta1_iphoneos-arm64.deb
 Size: 64420
 MD5sum: 298cb1a279501682ac24461b1bbbe1c5
 SHA1: c04cf7a367f3849e50834fc2d7d50bf89c456b58
@@ -382,7 +403,7 @@ Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 452
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.spark.snowboard.masks_1.2.0~Beta1_iphoneos-arm64.deb
+Filename: debs/com.spark.snowboard.masks_1.2.0~Beta1_iphoneos-arm64.deb
 Size: 35080
 MD5sum: 69f7345850e0c31f819002f948f3e10a
 SHA1: 81d61998893f1a59dc35583d055cf4e110986c66
@@ -399,7 +420,7 @@ Maintainer: tako3s <fubdonstrk@gmail.com>
 Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 14.2)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.tako3s.printemps_1.1.0_iphoneos-arm64.deb
+Filename: debs/com.tako3s.printemps_1.1.0_iphoneos-arm64.deb
 Size: 18104
 MD5sum: 055ccde032a9d2c1d34e883f78d1540c
 SHA1: 0f880859665ac5e56be6f9a6dbd01b182990311c
@@ -414,7 +435,7 @@ Version: 3.2
 Architecture: iphoneos-arm64
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.twickd.luki120.aestea-revived_3.deb
+Filename: debs/com.twickd.luki120.aestea-revived_3.deb
 Size: 694480
 MD5sum: 87eeeef2f4925a110d97e3c725102a7f
 SHA1: 48ca21c42dba974ec323e2ecc031568aac7f8cc0
@@ -429,7 +450,7 @@ Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/com.twickd.luki120.april_2.deb
+Filename: debs/com.twickd.luki120.april_2.deb
 Size: 393492
 MD5sum: 082e1ad887ce05ddc6edb2ffb7611f06
 SHA1: 64382525463244620bb2b4868b13b09fea672257
@@ -445,7 +466,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ayden Panhuyzen
 Installed-Size: 332
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/dev.ayden.ios.tweak.lib.libdundas_1.0.3_iphoneos-arm64.deb
+Filename: debs/dev.ayden.ios.tweak.lib.libdundas_1.0.3_iphoneos-arm64.deb
 Size: 38460
 MD5sum: b6b71c63c30768e2c5bce4dcf0b44013
 SHA1: 42033fd781cc31bca30ef264d2f31d0ad93c15af
@@ -461,7 +482,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: mobilesubstrate, ellekit, oldabi, dev.ayden.ios.lib.sys.aurora, ldid, sed
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.jellyfishweatherfix_1.2_iphoneos-arm64.deb
+Filename: debs/ez.now.jellyfishweatherfix_1.2_iphoneos-arm64.deb
 Size: 1040
 MD5sum: 0c126bdebd96da9614dc7b1cb10621b0
 SHA1: abf53f106ec596fc5a227580cf92b68a97e7d79a
@@ -476,7 +497,7 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: mobilesubstrate, ellekit
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.rootlesspatchingsymlinks_1.1_iphoneos-arm64.deb
+Filename: debs/ez.now.rootlesspatchingsymlinks_1.1_iphoneos-arm64.deb
 Size: 1032
 MD5sum: 3d539a12d22d637fc2178f0bf10f2633
 SHA1: 368c4f5d570f11f1a77c67b9fdae6c9ade6600d7
@@ -491,7 +512,7 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: file, odcctools, ldid
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.xinaminepatcherscript_1.1_iphoneos-arm64.deb
+Filename: debs/ez.now.xinaminepatcherscript_1.1_iphoneos-arm64.deb
 Size: 3476
 MD5sum: 6773dd5ebebf637a4a0de54ebe3046b9
 SHA1: d18a569b80563f473cbaac4ebc5447d26bfa7b53
@@ -510,7 +531,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: file, odcctools, ldid
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.xinaminepatcherscript_1.2_iphoneos-arm64.deb
+Filename: debs/ez.now.xinaminepatcherscript_1.2_iphoneos-arm64.deb
 Size: 3820
 MD5sum: ed2f8b4fdc462dd559a01230353f2ddc
 SHA1: d0646240e8f3686c878efc57b730dd6e00371bcc
@@ -529,7 +550,7 @@ Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: file, odcctools, ldid
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/ez.now.xinaminepatcherscript_1.3_iphoneos-arm64.deb
+Filename: debs/ez.now.xinaminepatcherscript_1.3_iphoneos-arm64.deb
 Size: 14192
 MD5sum: 6f3fa115c53c93ed5ac42bff3f6961d6
 SHA1: fa218c89a3414cbe9249b7535f4eaa8e6588ab5f
@@ -551,7 +572,7 @@ Installed-Size: 400
 Depends: mobilesubstrate, preferenceloader
 Replaces: com.noisyflake.shylabels
 Provides: com.noisyflake.shylabels
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.conorthedev.shylabels13_1.4_iphoneos-arm64.deb
+Filename: debs/me.conorthedev.shylabels13_1.4_iphoneos-arm64.deb
 Size: 58436
 MD5sum: 8b1ea21516a1ec532166afa4dc522815
 SHA1: c7d727871e6a5554b527a7bb6b51621efdf04554
@@ -566,7 +587,7 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.amelija_1.1_iphoneos-arm64.deb
+Filename: debs/me.luki.amelija_1.1_iphoneos-arm64.deb
 Size: 386216
 MD5sum: d07ccaebcf1124a16b3515e5229802b4
 SHA1: c906fe36a605130ea40deb70dda0506a14ce7359
@@ -582,7 +603,7 @@ Architecture: iphoneos-arm64
 Maintainer: Luki
 Installed-Size: 716
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.aria_0.9.8~RC_iphoneos-arm64.deb
+Filename: debs/me.luki.aria_0.9.8~RC_iphoneos-arm64.deb
 Size: 95172
 MD5sum: 1ede0d28f9a8d6d6df8703296b6edcd9
 SHA1: d66071ee93f0d915e2e1efd45104164c6de7c5d7
@@ -601,7 +622,7 @@ Architecture: iphoneos-arm64
 Maintainer: Luki
 Installed-Size: 816
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.arizona_0.9.2_iphoneos-arm64.deb
+Filename: debs/me.luki.arizona_0.9.2_iphoneos-arm64.deb
 Size: 428584
 MD5sum: c06d08336bb0e9867e9d594084a27cd4
 SHA1: d48a50600cc52b8fa20b0c529804650480bfb023
@@ -620,7 +641,7 @@ Architecture: iphoneos-arm64
 Maintainer: Luki
 Installed-Size: 376
 Depends: mobilesubstrate, preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/me.luki.stealthccrootless_0.9.0_iphoneos-arm64.deb
+Filename: debs/me.luki.stealthccrootless_0.9.0_iphoneos-arm64.deb
 Size: 9092
 MD5sum: f807dcf76c0064d735fc8a82b576cf54
 SHA1: 69fa4bc7be8466dc99fbdd687ef6dac5ffdfca99
@@ -640,7 +661,7 @@ Installed-Size: 392
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Filename: debs/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
 Size: 65310
 MD5sum: edc543419c4fd17e1b7af5e082fe6d7e
 SHA1: d67d773a98dca7af48fa79ac19d8f6e33e6381a3
@@ -657,7 +678,7 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 288
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/red.special.fastanimrootless_1.0_iphoneos-arm64.deb
+Filename: debs/red.special.fastanimrootless_1.0_iphoneos-arm64.deb
 Size: 14216
 MD5sum: c661bea30d2b2e69fdfa49a3142409f7
 SHA1: fac27d9f7d81f1e7cb089442f85681c2c0cf49e7
@@ -678,7 +699,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.bird-poop_1.1.0_iphoneos-arm64.deb
+Filename: debs/xyz.cypwn.bird-poop_1.1.0_iphoneos-arm64.deb
 Size: 7055012
 MD5sum: 07f5fbd89ea5e4a6a7d86e11713b7029
 SHA1: 07bfdcbc2b2992439b19ac6e7ee32f0f7da00c9d
@@ -697,7 +718,7 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Installed-Size: 3022
 Depends: mobilesubstrate, com.icraze.complicationsfix
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.complicationsrootless.deb
+Filename: debs/xyz.cypwn.complicationsrootless.deb
 Size: 641748
 MD5sum: 88fac013202854c4189aa292bb33a3ce
 SHA1: 3fa3fa1873b9e603d475df2404d538f43a8d1813
@@ -717,7 +738,7 @@ Maintainer: CyPwn
 Installed-Size: 472
 Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora | xyz.cypwn.aurora, ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
+Filename: debs/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
 Size: 69260
 MD5sum: ac83dd2898eff7ef3c33217a00ee48eb
 SHA1: a5dafdddb34a2987588bbdd42482d7849eda817d
@@ -736,7 +757,7 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Installed-Size: 3124
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.cypwn.velaris_1.deb
+Filename: debs/xyz.cypwn.velaris_1.deb
 Size: 1546708
 MD5sum: 23b5d329f1fca5ced0f41e61339299e2
 SHA1: 0cb0ec05a09faea125aeb731b00fbe23c1bc70d6
@@ -755,7 +776,7 @@ Architecture: iphoneos-arm64
 Maintainer: Skitty
 Installed-Size: 472
 Depends: mobilesubstrate
-Filename: /var/mobile/Documents/1MyFuguRepo/debian/xyz.skitty.ersatz_1.0_iphoneos-arm64.deb
+Filename: debs/xyz.skitty.ersatz_1.0_iphoneos-arm64.deb
 Size: 44440
 MD5sum: b68d11117cd5e8155f635e677a7988f0
 SHA1: bd7af006d63688ce86a7c1b7c59899835b4c0992
