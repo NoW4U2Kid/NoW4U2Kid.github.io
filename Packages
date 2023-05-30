@@ -381,38 +381,6 @@ Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
 Name: Togglow (rootless)
 Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
 
-Package: com.spark.snowboard.effects
-Version: 1.2.0~Beta1
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 540
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: debs/com.spark.snowboard.effects_1.2.0~Beta1_iphoneos-arm64.deb
-Size: 64420
-MD5sum: 298cb1a279501682ac24461b1bbbe1c5
-SHA1: c04cf7a367f3849e50834fc2d7d50bf89c456b58
-SHA256: 8e6721852085dd35201feb961d0c82d00aa5b45591fb78c367976d1f9fe01044
-Section: SnowBoard Extensions
-Description: Icon Effects for SnowBoard
-Author: Spark
-Name: SnowBoard Icon Effects Extension (rootless)
-
-Package: com.spark.snowboard.masks
-Version: 1.2.0~Beta1
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 452
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: debs/com.spark.snowboard.masks_1.2.0~Beta1_iphoneos-arm64.deb
-Size: 35080
-MD5sum: 69f7345850e0c31f819002f948f3e10a
-SHA1: 81d61998893f1a59dc35583d055cf4e110986c66
-SHA256: 7bf84cb3c632d9785e23990429f92386c8a1100b528443be5c5bfa7eda789276
-Section: SnowBoard Extensions
-Description: Icon masks for SnowBoard
-Author: Spark
-Name: SnowBoard Icon Masks Extension (rootless)
-
 Package: com.tako3s.printemps
 Version: 1.1.0
 Architecture: iphoneos-arm64
