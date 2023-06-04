@@ -551,6 +551,25 @@ Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] f
 Author: NoW4U2Kid
 Name: Xinamine Rootless Patcher Script
 
+Package: ez.now.xinaminepatcherscript
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.5_iphoneos-arm64.deb
+Size: 4148
+MD5sum: 2e5b43fa3305edf2bfdf376bab997dc9
+SHA1: e4f14859cfda4fa6f6c48eb403e628caec3c13b8
+SHA256: 6c0a7287da963177b37bfe81fa340531729fbba6b51961a397c397481247e610
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
 Package: me.conorthedev.shylabels13
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -568,21 +587,6 @@ Section: Tweaks
 Description: Hide your app labels when not scrolling
 Author: ConorTheDev + NoisyFlake
 Name: ShyLabels (rootless)
-
-Package: me.luki.amelija
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Luki
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: debs/me.luki.amelija_1.1_iphoneos-arm64.deb
-Size: 386216
-MD5sum: d07ccaebcf1124a16b3515e5229802b4
-SHA1: c906fe36a605130ea40deb70dda0506a14ce7359
-SHA256: cfda5123681881e929da1eab81d7e2795d17d868f8f774cba3b98462855b49d3
-Section: Tweaks
-Description: Take full control of your wallpapers on the fly
-Author: Luki
-Name: Amelija (rootless)
 
 Package: me.luki.aria
 Version: 0.9.8~RC
