@@ -576,10 +576,10 @@ Architecture: iphoneos-arm64
 Maintainer: NoW4U2Kid
 Depends: file, odcctools, ldid
 Filename: debs/ez.now.xinaminepatcherscript_1.6_iphoneos-arm64.deb
-Size: 4256
-MD5sum: 96fead911790b13bcd275e2f5b2ba6f7
-SHA1: 619bdc1e31a6c2f13190b7ff4eb5258208487604
-SHA256: 75910d579528803d59adecb912363393b06b05ce336fe01bbe906692adb231f7
+Size: 4252
+MD5sum: 0e0159020b60db207ff5a48513e9f6dd
+SHA1: 84cd02c8025077f440ae58443e4e7c42c96535a8
+SHA256: 6b3a01431f40b4a7753b3f4b44282931eaa877f6d7f6d40748e2f32715e60ee4
 Section: System
 Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
  - YES, this is much better than Derootifier or any other rootless conversion script.
