@@ -1,0 +1,801 @@
+Package: applebetas.ios.tweak.willow
+Version: 1.2.14
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: debs/applebetas.ios.tweak.willow_1.2.14_iphoneos-arm64.deb
+Size: 244824
+MD5sum: e60899e3edc4f0f874018c1d42274469
+SHA1: f3be31468163ec1a7d976fbfaf105dfaf60f30bd
+SHA256: f82d5e88b408589082a0cede2fe7b33d1143ee7b3da694068ec67e18a47d71a0
+Section: Tweaks
+Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
+Author: Ayden Panhuyzen
+Name: Ultrasound
+
+Package: co.dynastic.ios.lib.flora
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: debs/co.dynastic.ios.lib.flora_1.0.1_iphoneos-arm64.deb
+Size: 91896
+MD5sum: 17db4351946dc845e3559c9ed073bfb6
+SHA1: 96a6af1f7b3a4b4b402b053298906176077ff300
+SHA256: 813e0a7e65776f85da0e4d612721a0a1c261919fdf0631fa7331a0c30e7cd316
+Section: Development
+Description: Common Dynastic utilities.
+Tag: role::developer
+Author: Dynastic
+Name: libflora (rootless)
+
+Package: co.dynastic.ios.tweak.shortlook
+Version: 1.0.23
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 2128
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: debs/co.dynastic.ios.tweak.shortlook_1.0.deb
+Size: 1279704
+MD5sum: e53a475dd7564dd2f4ca0b3796451a98
+SHA1: d51b5fec93a9d64e056576ca1c48b8bd8b4cf337
+SHA256: 534eeca22fec626b83d0511e5b8736c461230f20854da68e2e6e32041112103d
+Section: Tweaks
+Description: ShortLook shows you your notifications at a glance. ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.
+Author: Dynastic
+Name: ShortLook (rootless)
+
+Package: com.atwiiks.betterccxi
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: debs/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
+Size: 80396
+MD5sum: 64ce65f67ea8089dbb00c32e538ea307
+SHA1: 62d3d96bfee244b9e7295db2eea61e97bff57338
+SHA256: 4da99d712fd2f54523a302acc82ec68df05c7bc8bb4f004d2c421eb3e473fd0d
+Section: Tweaks
+Description: Enhance your control center on iOS 11 and iOS 12
+Author: ATWiiks
+Name: BetterCCXI (rootless)
+
+Package: com.brend0n.properccbackgroundipad
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.brend0n.properccbackgroundipad_0.0.2_iphoneos-arm64.deb
+Size: 6832
+MD5sum: 9d57f496a219f1fc168451b8d1fa2867
+SHA1: eb2a617b61e82ea1bdf3daab7dc70d45b1f48f67
+SHA256: 9cf64d604e97a423a760373e4d2691eaa5c389cadc1c033aade5f31ad736a8a9
+Section: Tweaks
+Description: Make Control Center not to blur the whole screen.
+Author: Brend0n <brendonjkding@126.com>
+Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.properccbackgroundipad
+Name: ProperCCBackground(iPad) (rootless)
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.properccbackgroundipad/depiction.json
+
+Package: com.ginsu.ipcarrier
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: ginsu
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: debs/com.ginsu.ipcarrier_1.3_iphoneos-arm64.deb
+Size: 29292
+MD5sum: a06e16318bf9d47d373eed931e331543
+SHA1: f09af73459f1f8d9d090883f173b9799a9a368ba
+SHA256: 069c63e611df542fbd616b412b4f8b9f4c711e39f7640cb84ff0b4080a2bb67d
+Section: Tweaks
+Description: IP address in status bar + cc module.
+Author: ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.ipcarrier
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ipcarrier/icon.png
+Name: IPCarrier (rootless)
+
+Package: com.hackyouriphone.aerial2
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: debs/com.hackyouriphone.aerial2_1.0.3_iphoneos-arm64.deb
+Size: 82032
+MD5sum: bf4859d6d19a0dc67678875d5bcd2c29
+SHA1: 4a32225e1f3334877a1595902d1480163dbbda77
+SHA256: 4b8006f49d8d5256a5250a91a15a47faf12821d539f36117938fede9c60e471e
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aerial2
+Description: Colour Status Bar Icons
+Author: PolyTweaks <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aerial2
+Name: Aerial 2
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=aerial2
+
+Package: com.hackyouriphone.dock13
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: debs/com.hackyouriphone.dock13_0.0.1_iphoneos-arm64.deb
+Size: 3880
+MD5sum: 1b8d806b24a20e5784a264f0723d0d03
+SHA1: d7154a45aea535a17c90a2d58f2718dcce628ca7
+SHA256: cc274c900c0f81ff0af17afed5bb53170305048c124e55b161970a540ff6346e
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dock13
+Description: An awesome MobileSubstrate tweak!
+Author: Greg0109 <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dock13
+Name: Dock13 (rootless)
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=dock13
+
+Package: com.hackyouriphone.spdxs
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: debs/com.hackyouriphone.spdxs_0.2_iphoneos-arm64.deb
+Size: 7072
+MD5sum: 51491daf08d8951ea249f90d6e5b16ff
+SHA1: 565bdd3b05dba9d08fd37dd9d3a5f0d8cacb46a9
+SHA256: 6717bacbb23616eb01cce7da24c8b980a3143fd5513d841d0a4d59066fa6be74
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spdxs
+Description: Hide page dots when not scrolling
+Author: ryst <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spdxs
+Name: Shy Page Dots XS (rootless)
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=spdxs
+
+Package: com.ichitaso.primalfolder2
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 400
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: debs/com.ichitaso.primalfolder2_0.1.0_iphoneos-arm64.deb
+Size: 50896
+MD5sum: 020183c11ee69c43d5afe8da1936eb6b
+SHA1: 87347a6919854eeb2220070aec446266337a6886
+SHA256: 339d876d5150f4b78c35e070b2a6ab7eeb78cceef5a9b381f7f7e13e5a0f7b59
+Section: Tweaks
+Homepage: https://ichitaso.com
+Description: Display to folder as icon and launch action for Folders
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+Name: PrimalFolder 2
+
+Package: com.ichitaso.transparentdock13
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 136
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: debs/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm64.deb
+Size: 3420
+MD5sum: e3f43eb1516a35c6ff4f2249b757e416
+SHA1: 5337df4329b46b821fa4b7e162353d7e5016816a
+SHA256: fc28cad2497b410cf6652f3f113060723466e4e6f078402258867b8691312e7b
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Transparent Dock for iOS 13
+Tag: purpose::extension, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/transparentdock13.html
+Dev: ichitaso
+Name: TransparentDock13 (rootless)
+
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 143
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
+Size: 5172
+MD5sum: 2d945dfe7355c4476aca52acb9899cab
+SHA1: cb6ae6d1d80ad7ec508aac3b1ecf99867b18a852
+SHA256: fadeee32bbc5103d400b147805a4d30d12f815862f8cd2a3da78b6176127b3b6
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Description: Add bouncing effect animations on iOS 11/12
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Jake James <jakeashacks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Dev: jakeashacks
+Name: Bounce It!
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.julioverne.autowall
+Version: 0.0~beta3
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.julioverne.autowall_0.0~beta3_iphoneos-arm64.deb
+Size: 58484
+MD5sum: 136f2ab9bb659909e90c6baa572239d0
+SHA1: 455516c8f24fc7a56e0d882efa78c3fb6ef24c6a
+SHA256: 7303a95b42269f6f660cdd1e4ad678b0982297e02ce442f5d732b74e410da586
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Scheduled Wallpapers
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autowall
+Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
+Name: AutoWall (rootless)
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 74788
+MD5sum: 368fa447b7c53724544efc2e2f19d83f
+SHA1: 8e9d7cec8aa0bd9f7deff8dc9fcb143917a59314
+SHA256: 89cb63f1c56cda890a7c8b8f2ae1aad6beda56e84310610d40dc7491fc390ff9
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi (rootless)
+
+Package: com.junesiphone.hidestatusbaritemsx
+Version: 0.3.9
+Architecture: iphoneos-arm64
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 600
+Depends: mobilesubstrate
+Conflicts: com.junesiphone.hidestatusbaritems
+Filename: debs/com.junesiphone.hidestatusbaritemsx_0.3.9_iphoneos-arm64.deb
+Size: 41524
+MD5sum: 8bee6f9581649842e3a8fe811250a8b0
+SHA1: d457950939d1ac8caf083607288a75cf27d59aa1
+SHA256: d4dcf598cc3e6894107bad61a687e0a020f39a5d5093b7ffe45493a203181d87
+Section: Addons (Tweaks)
+Description: Allows you to hide certain Statusbar items
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/hidestatusbaritemsx
+Name: Hide Statusbar Items X(12) (rootless)
+
+Package: com.nrkvv.blankicons
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: m156nrkvv
+Installed-Size: 824
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: debs/com.nrkvv.blankicons_0.1.1_iphoneos-arm64.deb
+Size: 38080
+MD5sum: cac89a8607a08df0a4e94867bd3b4583
+SHA1: dae33ee04d5f3983b5602ecb84f2d9e1b983e21d
+SHA256: 4a93cc8afacb08da8134cde8ee289b4fe714b969d41050d250d5ab0e8dbfa48a
+Section: Utilities
+Homepage: http://twitter.com/m156nrkvv
+Description: Create Blank Icons !!
+Tag: compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: m156nrkvv
+Icon: file:///Library/PreferenceBundles/BlankIconsPrefs.bundle/BlankIcons@2x.png
+Name: BlankIcons
+
+Package: com.pixelomer.mobilegoose
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: pixelomer
+Installed-Size: 1096
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
+Size: 630480
+MD5sum: ae70b629d32b53f5c64d7e1bf09f9139
+SHA1: f1c85c433295fa336f722391539ed77ba531c24c
+SHA256: f486c2290c87d2f82fe0f6a9e60b8dc0ac824257a484307bf8d54e0389e80432
+Section: Tweaks
+Description: An annoying goose for your iDevice
+Author: pixelomer
+Name: MobileGoose
+
+Package: com.rpetrich.powercuff
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 156
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: debs/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
+Size: 11328
+MD5sum: 15bcccf814f16c0101a2c4ae09743367
+SHA1: 8dad0f7ec3b510967613da6f42d564a1a7aaca96
+SHA256: 2088cea2f6fb95d06080bc4b1a68c3fbdd5300254751a8ad929cf0fc54c57368
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpgfarm.a-font
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: debs/A-Font.com.rpgfarm.a-font.deb
+Size: 499008
+MD5sum: 7f14fbd79baa462d358a65565a1d6aea
+SHA1: c5a6e4eef4930e0ce3391629161a6469eca831e1
+SHA256: b6a1fac037734a435f8ad52b4be899421a1f30618c7872e8b05af30e737e0086
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Font
+
+Package: com.smokin1337.fugap
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 712
+Depends: mobilesubstrate
+Filename: debs/com.smokin1337.fugap_2.2.5_iphoneos-arm64.deb
+Size: 143108
+MD5sum: cfc19b7f55b966b7758e080dc670c82f
+SHA1: 4275310db659c8034c11c1dd21a3bbc0f38318b3
+SHA256: 70bf777d1fd7a549df77532e6339e36cb0b39149d910387e447b740ae06133b0
+Section: Tweaks
+Description: Close some gaps, hide some stuff !
+Author: smokin1337 <smokin1337@gmail.com>
+Name: FUGap (rootless)
+
+Package: com.smokin1337.togglow
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1172
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.smokin1337.togglow_1.0.deb
+Size: 342568
+MD5sum: 6c0576392d6da17fd1ed042f07cccc5c
+SHA1: a0d8d2f6e0ab9478cb93545eff030186aed49c68
+SHA256: ee03fef6e685a6f9348db574d83994ab3205752bf6a0c5e8d1b120146cbf4dfb
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
+Name: Togglow (rootless)
+Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
+
+Package: com.tako3s.printemps
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: tako3s <fubdonstrk@gmail.com>
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 14.2)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: debs/com.tako3s.printemps_1.1.0_iphoneos-arm64.deb
+Size: 18104
+MD5sum: 055ccde032a9d2c1d34e883f78d1540c
+SHA1: 0f880859665ac5e56be6f9a6dbd01b182990311c
+SHA256: b4b4244678c52fac9e6d7fefd187b4813029799a1831119933706ffe50bb256d
+Section: Tweaks
+Description: Very small music widget
+Author: tako3s <fubdonstrk@gmail.com>
+Name: Printemps (rootless)
+
+Package: com.twickd.luki120.aestea-revived
+Version: 3.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
+Filename: debs/com.twickd.luki120.aestea-revived_3.deb
+Size: 694480
+MD5sum: 87eeeef2f4925a110d97e3c725102a7f
+SHA1: 48ca21c42dba974ec323e2ecc031568aac7f8cc0
+SHA256: a87181240119c61b6bdaf97672c950cbb5a7a7f0d6c15105287d22655224bbec
+Section: Tweaks
+Description: Colorize your connectivity toggles on the fly
+Author: Luki
+Name: Aestea Revived 🌊 (rootless)
+
+Package: com.twickd.luki120.april
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: debs/com.twickd.luki120.april_2.deb
+Size: 393492
+MD5sum: 082e1ad887ce05ddc6edb2ffb7611f06
+SHA1: 64382525463244620bb2b4868b13b09fea672257
+SHA256: 1a103dac54d59c8998817db4354d0c4e6f3e986c235a9d30d0fe425d4a36647e
+Section: Tweaks
+Description: Augment your settings app aesthetics to the next level on the fly
+Author: Luki
+Name: April (rootless)
+
+Package: dev.ayden.ios.tweak.lib.libdundas
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 332
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/dev.ayden.ios.tweak.lib.libdundas_1.0.3_iphoneos-arm64.deb
+Size: 38460
+MD5sum: b6b71c63c30768e2c5bce4dcf0b44013
+SHA1: 42033fd781cc31bca30ef264d2f31d0ad93c15af
+SHA256: c919ff6af5cb85406e77f8f72a347c1200384fa8b55ef86fc15515bdf135653e
+Section: Development
+Description: Utilities for my tweaks.
+Tag: role::developer
+Author: Ayden Panhuyzen
+Name: libdundas
+
+Package: ez.now.jellyfishweatherfix
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, oldabi, dev.ayden.ios.lib.sys.aurora, ldid, sed
+Filename: debs/ez.now.jellyfishweatherfix_1.2_iphoneos-arm64.deb
+Size: 1040
+MD5sum: 0c126bdebd96da9614dc7b1cb10621b0
+SHA1: abf53f106ec596fc5a227580cf92b68a97e7d79a
+SHA256: e763f8accf6dc0e681d580c9aafb00f38149f9be7eef225a1cae9572c7a674db
+Section: Tweaks
+Description: Fix for weather on Jellyfish for rootless jailbreaks
+Author: NoW4U2Kid
+Name: JellyfishWeatherFix
+
+Package: ez.now.rootlesspatchingsymlinks
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit
+Filename: debs/ez.now.rootlesspatchingsymlinks_1.1_iphoneos-arm64.deb
+Size: 1032
+MD5sum: 3d539a12d22d637fc2178f0bf10f2633
+SHA1: 368c4f5d570f11f1a77c67b9fdae6c9ade6600d7
+SHA256: 93c72615647f76ad46d7811442a16fa5a1250a9e206941869053a48a0772d2b5
+Section: Tweaks
+Description: Adds symlinks necessary for some patched tweaks in rootless jailbreaks
+Author: NoW4U2Kid
+Name: RootlessPatchingSymlinks
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.1_iphoneos-arm64.deb
+Size: 3476
+MD5sum: 6773dd5ebebf637a4a0de54ebe3046b9
+SHA1: d18a569b80563f473cbaac4ebc5447d26bfa7b53
+SHA256: af29afc35e4ab9d3e0fa77568abba7d94c26666be81fabbe17895129ecff4974
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process)
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.2_iphoneos-arm64.deb
+Size: 3820
+MD5sum: ed2f8b4fdc462dd559a01230353f2ddc
+SHA1: d0646240e8f3686c878efc57b730dd6e00371bcc
+SHA256: 6079e8895bb8f16ecd8fd35f69cabc356fae293863e2a2fdeb3f84788a61b5fd
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.3_iphoneos-arm64.deb
+Size: 14192
+MD5sum: 6f3fa115c53c93ed5ac42bff3f6961d6
+SHA1: fa218c89a3414cbe9249b7535f4eaa8e6588ab5f
+SHA256: 2a7fda5aa63553927f3481eedd43f19d25e6309765329bb933c2ed6264253594
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.4_iphoneos-arm64.deb
+Size: 4012
+MD5sum: 6b6ebc324bad4d9ac03c1e8e76a707ea
+SHA1: 20b094ea7ffd7920313b9631643405655a84254d
+SHA256: 399354eaf83e843dce386a18f91a128e4f6818c2e3fb10501ff82991a407a3e2
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.5_iphoneos-arm64.deb
+Size: 4148
+MD5sum: 2e5b43fa3305edf2bfdf376bab997dc9
+SHA1: e4f14859cfda4fa6f6c48eb403e628caec3c13b8
+SHA256: 6c0a7287da963177b37bfe81fa340531729fbba6b51961a397c397481247e610
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.6.1_iphoneos-arm64.deb
+Size: 4176
+MD5sum: d161c3c4faa03c9ae4f9901e7edbf125
+SHA1: 1da7db29c9dcd4137ec955ea80d362d4488f07fa
+SHA256: ab3991682e176304f971bacb3c98223a5e83cef8f96bd2ccc32039a6e8b87336
+Section: System
+Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] from https://paisseon.github.io/. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak. However, Xina symlinks are necessary, so the tweak [[Xinamine]] is necessary to get symlinks if the user is on Dopamine.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Rootless Patcher Script
+
+Package: me.conorthedev.shylabels13
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: ConorTheDev
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.noisyflake.shylabels
+Provides: com.noisyflake.shylabels
+Filename: debs/me.conorthedev.shylabels13_1.4_iphoneos-arm64.deb
+Size: 58436
+MD5sum: 8b1ea21516a1ec532166afa4dc522815
+SHA1: c7d727871e6a5554b527a7bb6b51621efdf04554
+SHA256: 4f83283b7855029ae9d94dc03a0fe7a803377e67e881b80ece2355770b83691d
+Section: Tweaks
+Description: Hide your app labels when not scrolling
+Author: ConorTheDev + NoisyFlake
+Name: ShyLabels (rootless)
+
+Package: me.luki.aria
+Version: 0.9.8~RC
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: debs/me.luki.aria_0.9.8~RC_iphoneos-arm64.deb
+Size: 95172
+MD5sum: 1ede0d28f9a8d6d6df8703296b6edcd9
+SHA1: d66071ee93f0d915e2e1efd45104164c6de7c5d7
+SHA256: f319ccf63133ca2fc4f0a2f83256c1d23db0dd7823f596112e82134befefaec8
+Section: Tweaks
+Description: Enhance the stock CC or Prysm on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
+Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
+Name: Aria (rootless)
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
+
+Package: me.luki.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: debs/me.luki.arizona_0.9.2_iphoneos-arm64.deb
+Size: 428584
+MD5sum: c06d08336bb0e9867e9d594084a27cd4
+SHA1: d48a50600cc52b8fa20b0c529804650480bfb023
+SHA256: dd4152253f1d4a74115af69d0d790baf03ff693e03599fb64da9714efecc3f02
+Section: Tweaks
+Description: Move the stock clock, date and lock glyph on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
+Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
+Name: Arizona (rootless)
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
+
+Package: me.luki.stealthccrootless
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/me.luki.stealthccrootless_0.9.0_iphoneos-arm64.deb
+Size: 9092
+MD5sum: f807dcf76c0064d735fc8a82b576cf54
+SHA1: 69fa4bc7be8466dc99fbdd687ef6dac5ffdfca99
+SHA256: eae6a0d94000d1540a8bacbfd8e6ad43fa433ece16759e90c7f477a6f7bf793c
+Section: Tweaks
+Description: Control the intensity of the stock CC blur on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+Name: StealthCC (rootless)
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: debs/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 65310
+MD5sum: edc543419c4fd17e1b7af5e082fe6d7e
+SHA1: d67d773a98dca7af48fa79ac19d8f6e33e6381a3
+SHA256: a1258bfdacd61c41e3b515d16a03c98a265647753639e31691574522af15b056
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Bailey Seymour
+Name: libcolorpicker
+
+Package: red.special.fastanimrootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 288
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/red.special.fastanimrootless_1.0_iphoneos-arm64.deb
+Size: 14216
+MD5sum: c661bea30d2b2e69fdfa49a3142409f7
+SHA1: fac27d9f7d81f1e7cb089442f85681c2c0cf49e7
+SHA256: a89040f107abd2d033d1c280daf3362c02f9ea3d23904e3baff6296d35137546
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastanimDp
+Description: Speed up SpringBoard Animations!
+Tag: purpose::extension
+Author: TheRedSpecial <theredspecial0@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastanimDp
+Dev: ljinc
+Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
+Name: FastAnim (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: xyz.cypwn.bird-poop
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/xyz.cypwn.bird-poop_1.1.0_iphoneos-arm64.deb
+Size: 7055012
+MD5sum: 07f5fbd89ea5e4a6a7d86e11713b7029
+SHA1: 07bfdcbc2b2992439b19ac6e7ee32f0f7da00c9d
+SHA256: 41980cc67c8ba5b8db255261ee75e6e9a0505abdfa272d53e33020e1fe982fd2
+Section: Games
+Description: Destroy any player in any GamePigeon game!
+Author: ThePenisMan
+Depiction: https://repo.cypwn.xyz/depiction/38
+Icon: https://twickd.com/images/9af76f887270ad5b04d750000e58b73b.jpeg?size=medium
+Name: Bird Poop (rootless)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/38
+
+Package: xyz.cypwn.complications
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3022
+Depends: mobilesubstrate, com.icraze.complicationsfix
+Filename: debs/xyz.cypwn.complicationsrootless.deb
+Size: 641748
+MD5sum: 88fac013202854c4189aa292bb33a3ce
+SHA1: 3fa3fa1873b9e603d475df2404d538f43a8d1813
+SHA256: 19baed14debf8aac51b92a6b94b8324c8de454cdd92c03671b6e4850efcb39d5
+Section: Tweaks
+Description: watchOS widgets on your lock screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/566
+Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
+Name: Complications (RootlessFixed)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/566
+
+Package: xyz.cypwn.jellyfish
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora | xyz.cypwn.aurora, ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
+Filename: debs/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
+Size: 69260
+MD5sum: ac83dd2898eff7ef3c33217a00ee48eb
+SHA1: a5dafdddb34a2987588bbdd42482d7849eda817d
+SHA256: 079327fe89bac9e89031b90567310b08a5b4a6ed3e5e66e640fbe54fe3edfdd5
+Section: Tweaks
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Author: Justin Proulx and Ayden Panhuyzen <justinproulxapps@outlook.com>
+Depiction: https://repo.cypwn.xyz/depiction/139
+Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
+Name: Jellyfish
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/139
+
+Package: xyz.cypwn.velaris
+Version: 1.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3124
+Depends: mobilesubstrate
+Filename: debs/xyz.cypwn.velaris_1.deb
+Size: 1546708
+MD5sum: 23b5d329f1fca5ced0f41e61339299e2
+SHA1: 0cb0ec05a09faea125aeb731b00fbe23c1bc70d6
+SHA256: aebbb1e0a30b306eaf10f5d18f10cf7d6b55cab74724330c48b5cb67fc67541f
+Section: Tweaks
+Description: Calendar and weather on your home screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/262
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/velaris.png
+Name: Velaris (rootless)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/262
+
+Package: xyz.skitty.ersatz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: debs/xyz.skitty.ersatz_1.0_iphoneos-arm64.deb
+Size: 44440
+MD5sum: b68d11117cd5e8155f635e677a7988f0
+SHA1: bd7af006d63688ce86a7c1b7c59899835b4c0992
+SHA256: 3f8b421765c0562783d91d3b48ea603f575449ec10bc6f878bde404d2e980a06
+Section: Tweaks
+Description: Replace any text, system-wide!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.ersatz
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Name: Ersatz (rootless)
+Sileodepiction: https://skitty.xyz/repo/depictions/?s=xyz.skitty.ersatz
+
