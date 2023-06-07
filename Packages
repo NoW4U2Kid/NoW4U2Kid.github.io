@@ -82,19 +82,6 @@ Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.properc
 Name: ProperCCBackground(iPad) (rootless)
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.properccbackgroundipad/depiction.json
 
-Package: com.check0ver.echoui
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: @UAE_AD1001
-Filename: debs/com.check0ver.echoui_1.8_iphoneos-arm64.deb
-Size: 2071176
-MD5sum: a33d214779a502513a57199c097820ac
-SHA1: 90284936294359c62df3054ff7612145b20e19d3
-SHA256: 8231346e2f8db9b017f74b1b9b70e3973a99afbc17e0856195a0fd35a633ccb2
-Section: Themes
-Author: @UAE_AD1001
-Name: EchoUI (rootless)
-
 Package: com.ginsu.ipcarrier
 Version: 1.3
 Architecture: iphoneos-arm64
