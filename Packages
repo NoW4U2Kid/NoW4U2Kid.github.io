@@ -589,6 +589,25 @@ Description: IMPORTANT: Tweaks converted with this script require [[Xinamine]] f
 Author: NoW4U2Kid
 Name: Xinamine Rootless Patcher Script
 
+Package: ez.now.xinaminepatcherscript
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: file, odcctools, ldid
+Filename: debs/ez.now.xinaminepatcherscript_1.7_iphoneos-arm64.deb
+Size: 4480
+MD5sum: b381a5b82ce9120a1be3162a9b777ae2
+SHA1: efc43dcbdc05ea924cbf623a4ae1da14f095667a
+SHA256: 9af9473973b33b54524013304db4719ca742f8536ebca84543b9a182e55ef689
+Section: System
+Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Patcher
+
 Package: me.conorthedev.shylabels13
 Version: 1.4
 Architecture: iphoneos-arm64
